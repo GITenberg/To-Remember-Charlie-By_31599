@@ -1,0 +1,33 @@
+_repo: To-Remember-Charlie-By_31599
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31599-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Aycock, Roger D.
+    alias: Dee, Roger
+    birthdate: 1914
+    deathdate: 2004
+    gutenberg_agent_id: '25679'
+    url: http://www.gutenberg.org/2009/agents/25679
+    wikipedia: http://en.wikipedia.org/wiki/Roger_Dee
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31599'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Parapsychology -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Florida -- Fiction'
+- !lcsh 'Children with disabilities -- Fiction'
+title: To Remember Charlie By
+url: http://www.gutenberg.org/ebooks/31599
